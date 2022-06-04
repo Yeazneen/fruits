@@ -5,7 +5,7 @@ class Index extends React.Component {
         const vegetables = this.props.vegetables
         return (
             <div>
-                <h1>This is the Index Page of Fruit Collection </h1>
+                <h1>This is the Index Page of Vegetable Collection </h1>
                 <nav>
                     <a href="/vegetables/new">Go to the new page</a>
                 </nav>
